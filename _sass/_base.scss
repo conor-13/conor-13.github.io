@@ -377,13 +377,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Social (bottom)
+// Social
 
 .social {
-  text-align: center;
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
+    margin-top: 0px;
+    margin-bottom: 10px;
 
     a {
       i::before {
@@ -541,6 +543,8 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  padding-bottom: 0;
+  margin-bottom: 0; 
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
