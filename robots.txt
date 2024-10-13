@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://conor-13.github.io/sitemap.xml
