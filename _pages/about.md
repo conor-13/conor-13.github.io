@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,4 +23,4 @@ I currently study electrical engineering and computer science at Princeton Unive
 
 This website is home to a catalogue of personal and professional projects I've worked on, as well as a blog discussing topics spanning healthcare, machine learning, and entrepreneurship.
 
-Thanks for stopping by!
+Thank you for stopping by!
