@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lessons from Machine Learning - What Decision Trees Teach Us About Human Collaboration
+title: Decision Tree Ensembles and Human Collaboration
 date: 2025-01-15 12:32:00
 description: I describe what we can learn about human collaboration by studying decision tree ensembles.
 tags: Connections
