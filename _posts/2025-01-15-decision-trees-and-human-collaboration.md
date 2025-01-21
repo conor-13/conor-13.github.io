@@ -22,6 +22,6 @@ This experience was surprisingly frequent this semester. While taking courses on
   Note: The independent competence argument can be overturned if the absence of independent competence is accompanied by collaborative competence, though it is arguable that independent competence is necessary for the latter. Regardless, this is an edge case I will ignore here.
    
    
-  I find this connection satisfying and translational because the basic criteria for an effective ensemble of decision trees can be extended into a set of criteria that retroactively help to explain why the "good" teams I've been on were "good" and why the bad teams I've been on were "bad." The way I now understand and approach organized collaboration has tranformed due to these insights.
+  I find this connection satisfying and translational because the basic criteria for an effective ensemble of decision trees can be extended into a set of criteria that retroactively help to explain why the "good" teams I've been on were "good" and why the "bad" teams I've been on were "bad." The way I now understand and approach organized collaboration has tranformed due to these insights.
   
 
