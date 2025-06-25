@@ -3,11 +3,11 @@ layout: post
 title: Decision Trees and Human Collaboration
 date: 2025-01-15 12:32:00
 description: I describe what we can learn about human collaboration by studying decision tree ensembles.
-tags: Connections
+tags: AI, Entrepreneurship
 ---
 My coursework sometimes piques my curiosity in ways likely unintended. When I learn a new concept in class, for example, it sometimes interests me not academically but translationally. I become intrigued by how the concept offers wisdom to domains totally outside that from which it came, and I find it satisfying to think through these incidental connections, even if they are contrived, elementary, and imprecise.
 
-This experience was surprisingly frequent this semester. While taking courses on machine learning, organic chemistry, ecology, and evolutionary biology, I came upon several tranlational lessons I believe are worth sharing here. I proceed here by describing from a machine learning course the first of these lessons and the concepts that underlie it. I describe what we can learn about human collaboration by studying decision tree ensembles.
+This experience was surprisingly frequent this semester. While taking courses on machine learning, organic chemistry, ecology, and evolutionary biology, I came upon several translational lessons I believe are worth sharing here. I proceed here by describing from a machine learning course the first of these lessons and the concepts that underlie it. I describe what we can learn about human collaboration by studying decision tree ensembles.
 
 <div align="center" style="font-weight: bold">Decision Tree Ensembles -- How to Make Good Decisions in Collaboration</div> <br>
    The decision tree architecture learns to predict a target feature value by determining hierachically which compositions of descriptive feature values correspond to which target feature values in a training dataset. A single decision tree by itself can model complex relationships, but several such decision trees can be ensembled into an aggregate model with a greater representational capacity. 
