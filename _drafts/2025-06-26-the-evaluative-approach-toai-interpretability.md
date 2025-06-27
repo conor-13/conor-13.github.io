@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Neural Network Training and Life Progress: Gradient Descent as a Life Framework"
-date: 2025-06-25 06:30:00
-description: I identify the parallelism between how neural networks learn and how individuals make progress in their lives.
-tags: AI, Entrepreneurship
+title: "The Evaluative Approach to AI Interpretability"
+date: 2025-06-26 09:00:00
+description: I explore a path to interpretable AI that involves the careful evaluation of existing systems rather than the invention of new ones.
+tags: AI
 ---
-<div align="center" style="font-weight: bold">Introduction</div>
-Throughout the final year of my undergraduate degree at Princeton, I spent a lot of time thinking about how I could best approach the achievement of my goals and the realization of the evolving vision I devised for my life. I also spent a lot of time studying and training neural networks for my thesis. These threads of attention and cognitive effort largely felt orthogonal to one another: the former was strictly a personal and humanistic matter and the latter an impersonal and technical one. I compartmentalized the topics accordingly and never deliberately tried to connect them.
+I've devoted substantial thought in recent months to the nascent field of AI interpretability, in part because it was a cornerstone of my thesis research and in part because I believe it is one of the most important technological problems facing the present generation. I plan to write at length about this topic and publish a comprehensive overview of the various approaches to the challenge of building interpretable AI models in the coming weeks. In tandem with this project, I will be relaying some of the smaller, less refined ideas I have had about AI interpretability through brief posts. This is the first such post, and it covers an aspect of AI interpretability that I feel receives too little attention in the current dialogue, or at least too little attention in my *perception* of the current dialogue: evaluations.
 
-Gradually and organically, however, I began to appreciate -- or manufacture -- their parallelism. The problem of transiting from my current state in life to my desired state in life, I realized, may not be dissimilar from the problem of transiting from a randomly-initialized neural network to one that is maximally performant at a given predictive or generative task. I became interested in translating the intuition I developed around how neural networks iteratively acquire their impressive capabilities into a mental framework for understanding and advancing my own journey. 
+Evaluation involves testing AI models and the applications built on top of them with respect to various measures of quality. In general, the process seeks to understand how AI systems perform, and this intent is expressed through countless different forms depending on the definition of "perform" that is adopted by the evaluation orchestrator.
 
-In this blog post, I present the product of these translational reflections. I first introduce and briefly explain the essence of gradient descent -- the optimization algorithm through which neural networks learn. I then make the case that gradient descent is a powerful model for the process of making progress in one's life.  I hope the ideas I relay here are as useful to you as they have felt to me.
+
+
+
 
 <div align="center" style="font-weight: bold">The Essence of Gradient Descent</div>
 To explain the essence of gradient descent, I'll start by constructing a model that represents the process of neural network training as simple interactions between simple computational objects. 
