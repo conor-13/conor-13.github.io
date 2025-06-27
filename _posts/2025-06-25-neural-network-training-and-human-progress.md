@@ -38,4 +38,4 @@ The next step is to assess how far you are from accomplishing your goal after ta
 
 What follows is analogous to the process of calculating the derivative of the loss function and updating the parameters of the network. You should determine which direction for your next action feels most aligned with your desired state and decide how risky an action you wish to take. The magnitude of risk is captured in the learning rate hyperparameter in neural network training. 
 
-This process, I believe, is no different than vanilla gradient descent.
+The process of life progress, I believe, is thus no different than vanilla gradient descent.
