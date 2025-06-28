@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neural Network Training and Life Progress: Gradient Descent as a Life Framework"
+title: "Neural Network Training and Life Progress"
 date: 2025-06-25 06:30:00
 description: I identify the parallelism between how neural networks learn and how individuals make progress in their lives.
 tags: AI, Entrepreneurship
