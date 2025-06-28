@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uncertainty and Risk in Machine Learning and Life"
+title: "Risk in Machine Learning and Life"
 date: 2025-06-25 06:30:00
 description: I discuss risk as a necessary input for high achievement in machine learning systems and human systems alike.
 tags: AI, Entrepreneurship
